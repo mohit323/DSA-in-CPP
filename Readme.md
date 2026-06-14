@@ -1,10 +1,12 @@
 # DSA in C++
 
-Hello! I'm Mohit.
+Hi, I'm Mohit.
 
-This repository contains my journey of learning Data Structures and Algorithms in C++.
+I'm an AI/ML undergraduate at SRM Institute of Science and Technology.
 
-## Topics Covered
+This repository documents my journey of learning Data Structures and Algorithms in C++.
+
+## Topics
 
 - Arrays
 - Strings
@@ -13,12 +15,10 @@ This repository contains my journey of learning Data Structures and Algorithms i
 - Queues
 - Trees
 - Graphs
+- Sorting
+- Searching
 
-## Goal
-
-Become proficient in DSA and software engineering through consistent practice.
-
-## Progress
+## Current Progress
 
 ### Arrays
 - [ ] Array ADT
@@ -26,3 +26,10 @@ Become proficient in DSA and software engineering through consistent practice.
 - [ ] Delete
 - [ ] Linear Search
 - [ ] Binary Search
+
+## Goal
+
+Build a strong DSA foundation for software engineering, competitive programming, and technical interviews.
+
+---
+Started: June 2026
