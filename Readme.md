@@ -1,6 +1,6 @@
 # DSA in C++
 
-Hi, I'm Mohit.
+Hi, I'm Mohit 👋
 
 I'm an AI/ML undergraduate at SRM Institute of Science and Technology.
 
@@ -8,78 +8,138 @@ This repository documents my journey of learning Data Structures and Algorithms 
 
 ---
 
-## Topics
+## DSA Roadmap
 
-* Arrays
-* Strings
-* Hashing
-* Linked Lists
-* Stacks
-* Queues
-* Trees
-* Graphs
-* Sorting
-* Searching
+### Completed
 
----
+* ✅ Arrays
+* ✅ Strings
 
-## Current Progress
+### In Progress
 
-### Arrays ✅
+* ⏳ Hashing
 
-* [x] Array ADT
-* [x] Display
-* [x] Append
-* [x] Insert
-* [x] Delete
-* [x] Linear Search
-* [x] Binary Search
-* [x] Get & Set
-* [x] Max & Min
-* [x] Sum & Average
-* [x] Reverse
-* [x] Left Shift
-* [x] Right Shift
-* [x] Left Rotate
-* [x] Right Rotate
-* [x] Insert in Sorted Array
-* [x] Check if Array is Sorted
-* [x] Rearrange Negative and Positive Elements
-* [x] Merge Two Arrays
+### Upcoming
 
-### Strings 🔄
-
-* [ ] String Basics
-* [ ] Character Operations
-* [ ] Palindrome
-* [ ] Anagram
-* [ ] Duplicate Characters
-* [ ] String Reversal
-
-### Hashing ⏳
-
-* [ ] Frequency Counting
-* [ ] Hash Tables
-* [ ] Character Hashing
-* [ ] Array Hashing
-
-### Upcoming Topics
-
-* [ ] Linked Lists
-* [ ] Stacks
-* [ ] Queues
-* [ ] Trees
-* [ ] Graphs
-* [ ] Sorting Algorithms
-* [ ] Searching Techniques
+* ⬜ Linked Lists
+* ⬜ Recursion
+* ⬜ Stack
+* ⬜ Queue
+* ⬜ Trees
+* ⬜ Graphs
+* ⬜ Sorting Algorithms
+* ⬜ Searching Techniques
 
 ---
 
-## Practice Routine
+## Current Focus
 
-* Solve at least 1 DSA problem daily.
-* Revise previously learned topics regularly.
-* Focus on understanding implementations from scratch.
+📚 Revising Arrays and Strings
+
+🚀 Starting Hashing
+
+Current Goals:
+
+* Build strong DSA fundamentals
+* Master implementations from scratch
+* Improve problem-solving skills
+* Prepare for advanced data structures
+
+---
+
+# Progress Tracker
+
+## Arrays ✅
+
+### Array ADT
+
+* ✅ Display
+* ✅ Append
+* ✅ Insert
+* ✅ Delete
+* ✅ Linear Search
+* ✅ Binary Search
+* ✅ Get & Set
+* ✅ Max & Min
+* ✅ Sum & Average
+* ✅ Reverse
+* ✅ Left Shift
+* ✅ Right Shift
+* ✅ Left Rotate
+* ✅ Right Rotate
+
+### Array Operations
+
+* ✅ Insert in Sorted Array
+* ✅ Check if Array is Sorted
+* ✅ Rearrange Negative and Positive Elements
+* ✅ Merge Two Arrays
+
+### Set Operations
+
+* ✅ Union
+* ✅ Intersection
+* ✅ Difference
+
+### Array Applications
+
+* ✅ Finding Duplicates (Brute Force)
+* ✅ Finding Duplicates (Sorted Array)
+* ✅ Finding Duplicates (Hashing)
+
+---
+
+## Strings ✅
+
+### Fundamentals
+
+* ✅ String Basics
+* ✅ Finding Length
+* ✅ Changing Case
+* ✅ Toggle Case
+
+### String Analysis
+
+* ✅ Counting Words
+* ✅ Counting Vowels
+* ✅ String Validation
+
+### String Operations
+
+* ✅ Reverse String
+* ✅ Compare Strings
+* ✅ Palindrome Check
+
+### Duplicate Detection
+
+* ✅ Finding Duplicates (Brute Force)
+* ✅ Finding Duplicates (Hashing)
+* ✅ Finding Duplicates (Bitwise Method)
+
+### Advanced String Problems
+
+* ✅ Anagram Check
+* ✅ String Permutations
+
+---
+
+## Hashing ⏳
+
+### Planned Topics
+
+* ⏳ Frequency Counting
+* ⏳ Hash Tables
+* ⏳ Character Hashing
+* ⏳ Array Hashing
+
+---
+
+## Practice Philosophy
+
+* Solve at least one DSA problem daily
+* Focus on understanding implementation details
+* Build concepts from scratch before optimization
+* Prioritize consistency over speed
 
 ---
 
@@ -96,5 +156,7 @@ Build a strong foundation in Data Structures and Algorithms for:
 ---
 
 **Started:** June 2026
-**Language:** C++
-**Status:** Learning Consistently 🚀
+
+**Current Milestone:** Arrays ✅ | Strings ✅ | Hashing ⏳
+
+*"First build the fundamentals. Speed comes later."* 🚀
