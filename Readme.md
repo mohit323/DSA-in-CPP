@@ -4,52 +4,57 @@ Hi, I'm Mohit 👋
 
 I'm an AI/ML undergraduate at SRM Institute of Science and Technology.
 
-This repository documents my journey of learning Data Structures and Algorithms in C++ through theory, implementation, and problem-solving.
+This repository documents my journey of learning **Data Structures and Algorithms in C++** through theory, implementation, handwritten notes, and problem-solving.
 
 ---
 
-## DSA Roadmap
+# 📚 DSA Roadmap
 
-### Completed
+## ✅ Completed
 
-* ✅ Arrays
-* ✅ Strings
+* Arrays
+* Strings
+* Hashing
 
-### In Progress
+## 🚧 Currently Learning
 
-* ⏳ Hashing
+* Two Pointers
+* Sliding Window
 
-### Upcoming
+## ⏳ Upcoming
 
-* ⬜ Linked Lists
-* ⬜ Recursion
-* ⬜ Stack
-* ⬜ Queue
-* ⬜ Trees
-* ⬜ Graphs
-* ⬜ Sorting Algorithms
-* ⬜ Searching Techniques
+* Linked Lists
+* Recursion
+* Stack
+* Queue
+* Trees
+* Graphs
+* Sorting Algorithms
+* Searching Techniques
 
 ---
 
-## Current Focus
+# 🎯 Current Focus
 
-📚 Revising Arrays and Strings
+* 📖 Revising Arrays, Strings, and Hashing
+* 🚀 Mastering Two Pointers & Sliding Window
+* 💻 Solving LeetCode problems consistently
 
-🚀 Starting Hashing
+---
 
-Current Goals:
+# 🎯 Current Goals
 
 * Build strong DSA fundamentals
 * Master implementations from scratch
 * Improve problem-solving skills
+* Write clean and optimized C++ code
 * Prepare for advanced data structures
 
 ---
 
-# Progress Tracker
+# 📈 Progress Tracker
 
-## Arrays ✅
+## ✅ Arrays
 
 ### Array ADT
 
@@ -89,7 +94,7 @@ Current Goals:
 
 ---
 
-## Strings ✅
+## ✅ Strings
 
 ### Fundamentals
 
@@ -123,27 +128,68 @@ Current Goals:
 
 ---
 
-## Hashing ⏳
+## ✅ Hashing
+
+### Fundamentals
+
+* ✅ Introduction to Hashing
+* ✅ Frequency Counting
+* ✅ Character Hashing
+* ✅ Array Hashing
+
+### Hash Tables
+
+* ✅ Hash Functions
+* ✅ Collision Handling
+* ✅ Chaining
+* ✅ Linear Probing
+* ✅ Quadratic Probing
+* ✅ Double Hashing
+
+### Applications
+
+* ✅ Duplicate Detection
+* ✅ Frequency-Based Problems
+* ✅ Fast Lookup Techniques
+
+---
+
+## 🚧 Two Pointers
 
 ### Planned Topics
 
-* ⏳ Frequency Counting
-* ⏳ Hash Tables
-* ⏳ Character Hashing
-* ⏳ Array Hashing
+* ⏳ Two Sum
+* ⏳ Pair Sum
+* ⏳ Remove Duplicates
+* ⏳ Move Zeroes
+* ⏳ Container With Most Water
+* ⏳ 3Sum
 
 ---
 
-## Practice Philosophy
+## 🚧 Sliding Window
 
-* Solve at least one DSA problem daily
-* Focus on understanding implementation details
-* Build concepts from scratch before optimization
-* Prioritize consistency over speed
+### Planned Topics
+
+* ⏳ Fixed Size Window
+* ⏳ Variable Size Window
+* ⏳ Maximum Sum Subarray
+* ⏳ Longest Substring Problems
+* ⏳ Minimum Window Problems
 
 ---
 
-## Goal
+# 💡 Practice Philosophy
+
+* Solve at least one DSA problem every day.
+* Understand brute force before optimization.
+* Build every data structure from scratch.
+* Focus on consistency rather than speed.
+* Write clean, readable, and efficient C++ code.
+
+---
+
+# 🎯 Long-Term Goal
 
 Build a strong foundation in Data Structures and Algorithms for:
 
@@ -155,8 +201,14 @@ Build a strong foundation in Data Structures and Algorithms for:
 
 ---
 
+## 📅 Journey Timeline
+
 **Started:** June 2026
 
-**Current Milestone:** Arrays ✅ | Strings ✅ | Hashing ⏳
+**Current Milestone:**
 
-*"First build the fundamentals. Speed comes later."* 🚀
+✅ Arrays → ✅ Strings → ✅ Hashing → 🚧 Two Pointers → 🚧 Sliding Window
+
+---
+
+> *"First build the fundamentals. Speed comes later."* 🚀
