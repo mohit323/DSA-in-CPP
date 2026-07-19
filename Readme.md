@@ -1,54 +1,52 @@
 # DSA in C++
 
-Hi, I'm Mohit 👋
+Hi, I'm **Mohit** 👋
 
-I'm an AI/ML undergraduate at SRM Institute of Science and Technology.
+I'm an AI/ML undergraduate at **SRM Institute of Science and Technology**.
 
-This repository documents my journey of learning **Data Structures and Algorithms in C++** through theory, implementation, handwritten notes, and problem-solving.
+This repository documents my journey of learning **Data Structures and Algorithms in C++** through theory, implementations, handwritten notes, and problem-solving.
 
 ---
 
 # 📚 DSA Roadmap
 
 ## ✅ Completed
-
-* Arrays
-* Strings
-* Hashing
+- Arrays
+- Strings
+- Hashing
+- Linked Lists
 
 ## 🚧 Currently Learning
-
-* Two Pointers
-* Sliding Window
+- Recursion
 
 ## ⏳ Upcoming
-
-* Linked Lists
-* Recursion
-* Stack
-* Queue
-* Trees
-* Graphs
-* Sorting Algorithms
-* Searching Techniques
+- Stack
+- Queue
+- Trees
+- Graphs
+- Heap
+- Sorting Algorithms
+- Searching Techniques
+- Dynamic Programming
 
 ---
 
 # 🎯 Current Focus
 
-* 📖 Revising Arrays, Strings, and Hashing
-* 🚀 Mastering Two Pointers & Sliding Window
-* 💻 Solving LeetCode problems consistently
+- 📖 Revising Arrays, Strings, Hashing & Linked Lists
+- 🌱 Learning Recursion from scratch
+- 💻 Solving LeetCode consistently
+- ⚡ Improving problem-solving speed
 
 ---
 
-# 🎯 Current Goals
+# 🎯 Goals
 
-* Build strong DSA fundamentals
-* Master implementations from scratch
-* Improve problem-solving skills
-* Write clean and optimized C++ code
-* Prepare for advanced data structures
+- Build strong DSA fundamentals
+- Master implementations from scratch
+- Improve algorithmic thinking
+- Write clean and optimized C++ code
+- Prepare for advanced data structures and algorithms
 
 ---
 
@@ -57,158 +55,188 @@ This repository documents my journey of learning **Data Structures and Algorithm
 ## ✅ Arrays
 
 ### Array ADT
-
-* ✅ Display
-* ✅ Append
-* ✅ Insert
-* ✅ Delete
-* ✅ Linear Search
-* ✅ Binary Search
-* ✅ Get & Set
-* ✅ Max & Min
-* ✅ Sum & Average
-* ✅ Reverse
-* ✅ Left Shift
-* ✅ Right Shift
-* ✅ Left Rotate
-* ✅ Right Rotate
+- ✅ Display
+- ✅ Append
+- ✅ Insert
+- ✅ Delete
+- ✅ Linear Search
+- ✅ Binary Search
+- ✅ Get & Set
+- ✅ Max & Min
+- ✅ Sum & Average
+- ✅ Reverse
+- ✅ Left Shift
+- ✅ Right Shift
+- ✅ Left Rotate
+- ✅ Right Rotate
 
 ### Array Operations
-
-* ✅ Insert in Sorted Array
-* ✅ Check if Array is Sorted
-* ✅ Rearrange Negative and Positive Elements
-* ✅ Merge Two Arrays
+- ✅ Insert in Sorted Array
+- ✅ Check if Array is Sorted
+- ✅ Rearrange Negative & Positive Elements
+- ✅ Merge Two Arrays
 
 ### Set Operations
+- ✅ Union
+- ✅ Intersection
+- ✅ Difference
 
-* ✅ Union
-* ✅ Intersection
-* ✅ Difference
-
-### Array Applications
-
-* ✅ Finding Duplicates (Brute Force)
-* ✅ Finding Duplicates (Sorted Array)
-* ✅ Finding Duplicates (Hashing)
+### Applications
+- ✅ Finding Duplicates (Brute Force)
+- ✅ Finding Duplicates (Sorted Array)
+- ✅ Finding Duplicates (Hashing)
 
 ---
 
 ## ✅ Strings
 
 ### Fundamentals
-
-* ✅ String Basics
-* ✅ Finding Length
-* ✅ Changing Case
-* ✅ Toggle Case
+- ✅ String Basics
+- ✅ Finding Length
+- ✅ Changing Case
+- ✅ Toggle Case
 
 ### String Analysis
-
-* ✅ Counting Words
-* ✅ Counting Vowels
-* ✅ String Validation
+- ✅ Counting Words
+- ✅ Counting Vowels
+- ✅ String Validation
 
 ### String Operations
-
-* ✅ Reverse String
-* ✅ Compare Strings
-* ✅ Palindrome Check
+- ✅ Reverse String
+- ✅ Compare Strings
+- ✅ Palindrome Check
 
 ### Duplicate Detection
+- ✅ Brute Force
+- ✅ Hashing
+- ✅ Bitwise Method
 
-* ✅ Finding Duplicates (Brute Force)
-* ✅ Finding Duplicates (Hashing)
-* ✅ Finding Duplicates (Bitwise Method)
-
-### Advanced String Problems
-
-* ✅ Anagram Check
-* ✅ String Permutations
+### Advanced Problems
+- ✅ Anagram Check
+- ✅ String Permutations
 
 ---
 
 ## ✅ Hashing
 
 ### Fundamentals
-
-* ✅ Introduction to Hashing
-* ✅ Frequency Counting
-* ✅ Character Hashing
-* ✅ Array Hashing
+- ✅ Introduction to Hashing
+- ✅ Frequency Counting
+- ✅ Character Hashing
+- ✅ Array Hashing
 
 ### Hash Tables
-
-* ✅ Hash Functions
-* ✅ Collision Handling
-* ✅ Chaining
-* ✅ Linear Probing
-* ✅ Quadratic Probing
-* ✅ Double Hashing
+- ✅ Hash Functions
+- ✅ Collision Handling
+- ✅ Chaining
+- ✅ Linear Probing
+- ✅ Quadratic Probing
+- ✅ Double Hashing
 
 ### Applications
-
-* ✅ Duplicate Detection
-* ✅ Frequency-Based Problems
-* ✅ Fast Lookup Techniques
-
----
-
-## 🚧 Two Pointers
-
-### Planned Topics
-
-* ⏳ Two Sum
-* ⏳ Pair Sum
-* ⏳ Remove Duplicates
-* ⏳ Move Zeroes
-* ⏳ Container With Most Water
-* ⏳ 3Sum
+- ✅ Duplicate Detection
+- ✅ Frequency-Based Problems
+- ✅ Fast Lookup Techniques
 
 ---
 
-## 🚧 Sliding Window
+## ✅ Linked Lists
+
+### Singly Linked List
+- ✅ Create
+- ✅ Display
+- ✅ Count Nodes
+- ✅ Sum of Nodes
+- ✅ Maximum & Minimum Element
+- ✅ Linear Search
+- ✅ Improved Search (Move to Head)
+- ✅ Insert
+- ✅ Delete
+- ✅ Check if Sorted
+- ✅ Remove Duplicates
+- ✅ Reverse (Data)
+- ✅ Reverse (Links)
+- ✅ Recursive Reverse
+- ✅ Concatenate
+- ✅ Merge Two Sorted Lists
+
+### Circular Linked List
+- ✅ Create
+- ✅ Display
+- ✅ Insert
+- ✅ Delete
+
+### Doubly Linked List
+- ✅ Create
+- ✅ Display
+- ✅ Insert
+- ✅ Delete
+- ✅ Reverse
+
+---
+
+## 🚧 Recursion
 
 ### Planned Topics
-
-* ⏳ Fixed Size Window
-* ⏳ Variable Size Window
-* ⏳ Maximum Sum Subarray
-* ⏳ Longest Substring Problems
-* ⏳ Minimum Window Problems
+- ⏳ Basic Recursion
+- ⏳ Tail Recursion
+- ⏳ Head Recursion
+- ⏳ Tree Recursion
+- ⏳ Indirect Recursion
+- ⏳ Nested Recursion
+- ⏳ Recurrence Relations
+- ⏳ Recursive Problems
 
 ---
 
 # 💡 Practice Philosophy
 
-* Solve at least one DSA problem every day.
-* Understand brute force before optimization.
-* Build every data structure from scratch.
-* Focus on consistency rather than speed.
-* Write clean, readable, and efficient C++ code.
+- Solve at least one DSA problem every day.
+- Understand brute force before optimization.
+- Build every data structure from scratch.
+- Focus on consistency over speed.
+- Write clean, readable, and efficient C++ code.
 
 ---
 
-# 🎯 Long-Term Goal
+# 🚀 Long-Term Goal
 
 Build a strong foundation in Data Structures and Algorithms for:
 
-* Software Engineering
-* Competitive Programming
-* Open Source Contributions
-* AI/ML Engineering
-* Technical Interviews
+- Software Engineering
+- Competitive Programming
+- Open Source Contributions
+- AI/ML Engineering
+- Technical Interviews
 
 ---
 
-## 📅 Journey Timeline
+# 📅 Journey Timeline
 
 **Started:** June 2026
 
-**Current Milestone:**
+### Current Milestone
 
-✅ Arrays → ✅ Strings → ✅ Hashing → 🚧 Two Pointers → 🚧 Sliding Window
+```
+✅ Arrays
+      ↓
+✅ Strings
+      ↓
+✅ Hashing
+      ↓
+✅ Linked Lists
+      ↓
+🚧 Recursion
+      ↓
+⏳ Stack & Queue
+      ↓
+⏳ Trees
+      ↓
+⏳ Graphs
+      ↓
+⏳ Dynamic Programming
+```
 
 ---
 
-> *"First build the fundamentals. Speed comes later."* 🚀
+> **"First build the fundamentals. Speed comes later."** 🚀
