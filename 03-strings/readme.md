@@ -163,4 +163,4 @@ After completing these programs, you will understand:
 
 **Mohit Kunwar**
 - B.Tech CSE (AI & ML)
-- SRM Institute of Science and Technology
+- SRM Institute of Science and Technology.
